@@ -1,2 +1,2 @@
-# Java-girls
-Java for girls only
+# Java-Project group 16
+
